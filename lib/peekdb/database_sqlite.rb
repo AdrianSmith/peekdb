@@ -1,0 +1,2 @@
+class DatabaseSQLite < Database
+end

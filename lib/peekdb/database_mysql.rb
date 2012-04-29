@@ -1,0 +1,2 @@
+class DatabaseMySQL < Database
+end
