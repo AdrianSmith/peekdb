@@ -2,7 +2,6 @@ require 'pg'
 require 'graphviz'
 require 'optparse'
 require 'ostruct'
-require 'pry'
 
 require_relative 'peekdb/graph'
 require_relative 'peekdb/database'

@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name        = "peekdb"
-  gem.version     = "0.2.0"
+  gem.version     = "0.2.1"
   gem.platform    = Gem::Platform::RUBY
   gem.authors     = ["Adrian Smith"]
   gem.email       = ["adrian.smith@ennova.com.au"]

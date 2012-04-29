@@ -16,7 +16,7 @@ class Graph
     end
 
     relations.each do |relation|
-      @dwg.add_edges(relation[3], relation[1])
+      @dwg.add_edges(relation[1], relation[3])
     end
   end
 
